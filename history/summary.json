@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.55%",
+    "uptimeDay": "94.47%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 161,
     "timeDay": 174,
     "timeWeek": 154,
     "timeMonth": 161,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-12-22": 0
+      "2025-12-23": 75,
+      "2025-12-22": 5
     }
   },
   {
@@ -121,16 +122,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "waline",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.55%",
+    "uptimeDay": "94.47%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 2683,
     "timeDay": 1730,
     "timeWeek": 3020,
     "timeMonth": 2683,
     "timeYear": 2683,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-23": 75,
+      "2025-12-22": 5
+    }
   }
 ]
